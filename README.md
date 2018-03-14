@@ -10,7 +10,8 @@ This section will expose you different ways to make money from photography.
 - [ ] Babies
 - [ ] Portraits
 - [ ] Pets
-- [ ] 
+- [ ] Professional Portraits
+- [ ] Media Kit (like this https://tim.blog/media/)
 ##### Places
 - [ ] Night clubs
 - [ ] Nature and animals
